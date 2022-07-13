@@ -25,9 +25,14 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gabbenick's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbenick&theme=great-gatsby&hide_border=true" height="192px"/>
   </a>
 </p>
-
-
-
+<!--
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <p align="center"> <br>
+  <a href="https://github.com/gabbenick/login-screen-apex"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?    username=gabbenick&repo=login-screen-apex&theme=great-gatsby&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  </p>
+</details>
+-->
 
 
 
