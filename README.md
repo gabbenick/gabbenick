@@ -20,6 +20,8 @@ Sou um desenvolvedor front-end que trabalha com HTML, CSS e Javascript. Aprenden
   <img align="center" alt="CSS3" width="40px" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
   <img align="center" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="center" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+  <img align="center" alt="Python" width="40px" src="[https://cdn-icons-png.flaticon.com/512/226/226777.png](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" />
+
 </div>
 
 <h3 align="center"> Languages: </h3>
