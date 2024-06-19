@@ -9,8 +9,8 @@
 <h3 align="center">
   About me:
 </h3>
-<p align="center"> I'm a front-end developer who works with HTML, CSS, Javascript and React. Learning Java and Python. Electrical Engineer student - UFAL<br>
-Sou um desenvolvedor front-end que trabalha com HTML, CSS, Javascript e React. Aprendendo Java e Python. Estudante de Engenharia Elétrica - UFAL</p>
+<p align="center"> I'm a full-stack developer. Electrical Engineer student - UFAL<br>
+Sou um desenvolvedor full-stack. Estudante de Engenharia Elétrica - UFAL</p>
 
 <h3 align="center"> Tech: </h3>
 <div align="center">
