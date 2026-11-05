@@ -43,15 +43,3 @@
 **[despacho-otimo-turbinas](https://github.com/gabbenick/despacho-otimo-turbinas)** — Optimal flow dispatch across three hydro turbines using Lagrange multipliers and KKT conditions.
 
 </div>
-
-<h3 align="center">Stats:</h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabbenick's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gabbenick&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true" height="192px"/></a>
-</p>
-
-<h3 align="center">Streak:</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="gabbenick's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbenick&theme=great-gatsby&hide_border=true" height="192px"/>
-  </a>
-</p>
